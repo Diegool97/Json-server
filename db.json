@@ -1,0 +1,56 @@
+{
+    "atividades": [
+      {
+        "id": 1,
+        "nome": "Musculação",
+        "descricao": "Equipamentos de alta qualidade na sala de musculação",
+        "preco": 80.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "nome": "Jump",
+        "descricao": "Pule e queime suas calorias.",
+        "preco": 100.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 3,
+        "nome": "Spinning",
+        "descricao": "Pedale bastante para queimar suas calorias.",
+        "preco": 120.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 4,
+        "nome": "Dança",
+        "descricao": "Mexa o seu corpo para queimar suas calorias.",
+        "preco": 14.5,
+        "categoria_id": 1
+      },
+      {
+        "id": 5,
+        "nome": "Boxe",
+        "descricao": "Aprenda as técnicas do boxe.",
+        "preco": 140.5,
+        "categoria_id": 2
+      },
+      {
+        "id": 6,
+        "nome": "Judô",
+        "descricao": "Aprenda as técnicas do judô",
+        "preco": 140.5,
+        "categoria_id": 2
+      }
+    ],
+    "categorias": [
+      {
+        "id": 1,
+        "nome": "Atividade"
+      },
+      {
+        "id": 2,
+        "nome": "Lutas"
+      }
+    ]
+  }
